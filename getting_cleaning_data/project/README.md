@@ -78,36 +78,36 @@ avg_fBodyAccJerk_mean_Z - The average value of mean body acceleration jerk along
 avg_fBodyAccJerk_std_X - The average value of standard deviation in body acceleration jerk along X axis in frequency domain.
 avg_fBodyAccJerk_std_Y - The average value of standard deviation in body acceleration jerk along Y axis in frequency domain.
 avg_fBodyAccJerk_std_Z - The average value of standard deviation in body acceleration jerk along Z axis in frequency domain.
-avg_fBodyAccJerk_meanFreq_X
-avg_fBodyAccJerk_meanFreq_Y
-avg_fBodyAccJerk_meanFreq_Z
-avg_fBodyGyro_mean_X
-avg_fBodyGyro_mean_Y
-avg_fBodyGyro_mean_Z
-avg_fBodyGyro_std_X
-avg_fBodyGyro_std_Y
-avg_fBodyGyro_std_Z
-avg_fBodyGyro_meanFreq_X
-avg_fBodyGyro_meanFreq_Y
-avg_fBodyGyro_meanFreq_Z
-avg_fBodyAccMag_mean
-avg_fBodyAccMag_std
-avg_fBodyAccMag_meanFreq
-avg_fBodyBodyAccJerkMag_mean
-avg_fBodyBodyAccJerkMag_std
-avg_fBodyBodyAccJerkMag_meanFreq
-avg_fBodyBodyGyroMag_mean
-avg_fBodyBodyGyroMag_std
-avg_fBodyBodyGyroMag_meanFreq
-avg_fBodyBodyGyroJerkMag_mean
-avg_fBodyBodyGyroJerkMag_std
-avg_fBodyBodyGyroJerkMag_meanFreq
-avg_angletBodyAccJerkMeangravityMean
-avg_angletBodyGyroMeangravityMean
-avg_angletBodyGyroJerkMeangravityMean
-avg_angleXgravityMean
-avg_angleYgravityMean
-avg_angleZgravityMean
+avg_fBodyAccJerk_meanFreq_X - The average value of mean frequency in body acceleration jerk along X axis in frequency domain.
+avg_fBodyAccJerk_meanFreq_Y - The average value of mean frequency in body acceleration jerk along Y axis in frequency domain.
+avg_fBodyAccJerk_meanFreq_Z - The average value of mean frequency in body acceleration jerk along Z axis in frequency domain.
+avg_fBodyGyro_mean_X - The average value of mean angular velocity along X axis in frequency domain.
+avg_fBodyGyro_mean_Y - The average value of mean angular velocity along Y axis in frequency domain.
+avg_fBodyGyro_mean_Z - The average value of mean angular velocity along Z axis in frequency domain.
+avg_fBodyGyro_std_X - The average value of standard deviation in angular velocity along X axis in frequency domain.
+avg_fBodyGyro_std_Y - The average value of standard deviation in angular velocity along Y axis in frequency domain.
+avg_fBodyGyro_std_Z - The average value of standard deviation in angular velocity along Z axis in frequency domain.
+avg_fBodyGyro_meanFreq_X - The average value of mean frequency of angular velocity along X axis in frequency domain.
+avg_fBodyGyro_meanFreq_Y - The average value of mean frequency of angular velocity along Y axis in frequency domain.
+avg_fBodyGyro_meanFreq_Z - The average value of mean frequency of angular velocity along Z axis in frequency domain.
+avg_fBodyAccMag_mean - The average value of mean body acceleration in frequency domain.
+avg_fBodyAccMag_std - The average value of standard deviation in body acceleration in frequency domain.
+avg_fBodyAccMag_meanFreq - The average value of mean frequency of body acceleration in frequency domain.
+avg_fBodyBodyAccJerkMag_mean - The average magnitude of mean body acceleration jerk calculated by Euclidean norm in frequency domain.
+avg_fBodyBodyAccJerkMag_std - The average magnitude of standard deviation in body acceleration jerk calculated by Euclidean norm in frequency domain.
+avg_fBodyBodyAccJerkMag_meanFreq - The average magnitude of frequency of body acceleration jerk calculated by Euclidean norm in frequency domain.
+avg_fBodyBodyGyroMag_mean - The average magnitude of mean angular velocity jerk calculated by Euclidean norm in frequency domain.
+avg_fBodyBodyGyroMag_std - The average magnitude of standard deviation in angular velocity jerk calculated by Euclidean norm in frequency dom
+avg_fBodyBodyGyroMag_meanFreq - The average magnitude of frequency of angular velocity jerk calculated by Euclidean norm in frequency domain.
+avg_fBodyBodyGyroJerkMag_mean - The average magnitude of mean angular velocity jerk in frequency domain
+avg_fBodyBodyGyroJerkMag_std - The average standard deviation of angular velocity jerk in frequency domain.
+avg_fBodyBodyGyroJerkMag_meanFreq - The average value of mean frequency in the magnitude of angular velocity jerk in frequency domain.
+avg_angletBodyAccJerkMeangravityMean - The average angle of mean body acceleration jerk 
+avg_angletBodyGyroMeangravityMean - The average angle of mean angular velocity 
+avg_angletBodyGyroJerkMeangravityMean - The average angle of mean angular velocity jerk
+avg_angleXgravityMean - The average angle of mean gravity along X axis
+avg_angleYgravityMean - The average angle of mean gravity along Y axis
+avg_angleZgravityMean - The average angle of mean gravity along Z axis
 
 ### Notes
 - Features are normalized and bounded within [-1,1].
